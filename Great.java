@@ -18,6 +18,8 @@ boolean tabletIsSweet;
 tabletIsSweet=false;
 char letter ;
 letter='B';
+string address;
+address=Sajjanar;
 System.out.println(peopleInHome);
 System.out.println(sizeOfEarth);
 System.out.println(coronaCasesInKarnataka);
@@ -26,6 +28,7 @@ System.out.println(intrestRate);
 System.out.println(sineVal);
 System.out.println(tabletIsSweet);
 System.out.println(letter);
+System.out.println(address);
 	}
 }
 
