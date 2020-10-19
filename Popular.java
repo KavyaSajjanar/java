@@ -18,6 +18,8 @@ boolean moonIsBlack ;
 moonIsBlack=false;
 char position;
 position='A';
+String personName;
+personName=xyz;
 System.out.println(mobileNummberDigits);
 System.out.println(totalLanguagesnguages);
 System.out.println(primarySchools);
@@ -26,6 +28,7 @@ System.out.println(unEmployementRate);
 System.out.println(areaOfEarth);
 System.out.println(moonIsBlack);
 System.out.println(position);
+System.out.println(personName);
 	}
 }
 
