@@ -18,6 +18,8 @@ boolean earthIsFlat;
 earthIsFlat=false;
 char grade;
 grade='A';
+string homeName;
+homeName=nilay;
 System.out.println(fingers);
 System.out.println(daysInYear);
 System.out.println(numberOfEngineersInIndia);
@@ -26,6 +28,7 @@ System.out.println(percentageOfStudent);
 System.out.println(chargeOfElectron);
 System.out.println(earthIsFlat);
 System.out.println(grade);
-	}
+System.out.println(homeName);	
+}
 }
 
