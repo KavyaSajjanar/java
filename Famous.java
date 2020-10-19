@@ -18,6 +18,9 @@ boolean cancerIsDisease  ;
 cancerIsDisease=false;
 char level;
 level='A';
+String name;
+name=kavya
+
 System.out.println(adharCardNumber);
 System.out.println(statesInWorld);
 System.out.println(totalVillages);
@@ -26,6 +29,7 @@ System.out.println(perimeterOfTriangle);
 System.out.println(cosValue);
 System.out.println(cancerIsDisease);
 System.out.println(level);
+System.out.println(name);
 	}
 }
 
