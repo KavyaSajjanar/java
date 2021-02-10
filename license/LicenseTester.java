@@ -36,6 +36,7 @@ AddressDTO dto=new AddressDTO("ani", "NA", 1234, "aniavi", "gadag", "KA", 582112
 		
 		LicenseDAO dao=new LicenseDAOImpl();
 		dao.save(licenseDTO);
+	
 	}
 
 }
